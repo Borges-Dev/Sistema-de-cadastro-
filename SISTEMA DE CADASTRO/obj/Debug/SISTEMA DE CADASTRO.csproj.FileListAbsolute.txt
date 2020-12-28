@@ -1,0 +1,10 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\testes de aplicativos em C#\SISTEMA DE CADASTRO\SISTEMA DE CADASTRO\bin\Debug\SISTEMA DE CADASTRO.exe.config
+C:\Users\bruno\OneDrive\Área de Trabalho\testes de aplicativos em C#\SISTEMA DE CADASTRO\SISTEMA DE CADASTRO\bin\Debug\SISTEMA DE CADASTRO.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\testes de aplicativos em C#\SISTEMA DE CADASTRO\SISTEMA DE CADASTRO\bin\Debug\SISTEMA DE CADASTRO.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\testes de aplicativos em C#\SISTEMA DE CADASTRO\SISTEMA DE CADASTRO\obj\Debug\SISTEMA DE CADASTRO.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\testes de aplicativos em C#\SISTEMA DE CADASTRO\SISTEMA DE CADASTRO\obj\Debug\SISTEMA_DE_CADASTRO.Form1.resources
+C:\Users\bruno\OneDrive\Área de Trabalho\testes de aplicativos em C#\SISTEMA DE CADASTRO\SISTEMA DE CADASTRO\obj\Debug\SISTEMA_DE_CADASTRO.Properties.Resources.resources
+C:\Users\bruno\OneDrive\Área de Trabalho\testes de aplicativos em C#\SISTEMA DE CADASTRO\SISTEMA DE CADASTRO\obj\Debug\SISTEMA DE CADASTRO.csproj.GenerateResource.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\testes de aplicativos em C#\SISTEMA DE CADASTRO\SISTEMA DE CADASTRO\obj\Debug\SISTEMA DE CADASTRO.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\testes de aplicativos em C#\SISTEMA DE CADASTRO\SISTEMA DE CADASTRO\obj\Debug\SISTEMA DE CADASTRO.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\testes de aplicativos em C#\SISTEMA DE CADASTRO\SISTEMA DE CADASTRO\obj\Debug\SISTEMA DE CADASTRO.pdb
